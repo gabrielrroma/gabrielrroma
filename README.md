@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos favoritos:
 2. **Projeto 2:** [Snake Game](https://github.com/LuizaCalife/SnakeC)  
    Outra descrição breve. Esse projeto me ensinou que o Google é o verdadeiro MVP.
 
-3. **Projeto 3:** [sistema de Rastreamento
+3. **Projeto 3:** [Sistema de Rastreamento
 de Despesas Pessoais.](https://github.com/gabrielrroma/Projeto-de-programacao/tree/main)  
    Mais uma descrição breve. Aqui eu aprendi que "commit frequente" é a chave para a sanidade mental.
 
