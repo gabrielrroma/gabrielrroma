@@ -1,47 +1,80 @@
-# Olá, eu sou o Gabriel! 👋
+# Olá, eu sou Gabriel R. Roma 👋
 
-Bem-vindo ao meu cantinho no GitHub, onde a mágica do código acontece (ou pelo menos eu tento fazer acontecer). Sou um entusiasta da programação, sempre em busca de aprender coisas novas e compartilhar meus projetos com o mundo.
+Sou estudante de Ciência da Computação e entusiasta de desenvolvimento de software. Tenho interesse em construir soluções práticas, aprender novas tecnologias e evoluir constantemente como desenvolvedor.
 
-## Sobre Mim 🧑‍💻
+Atualmente, venho desenvolvendo projetos acadêmicos e pessoais com foco em programação, lógica, estruturação de sistemas e boas práticas de desenvolvimento.
 
-- **Nome:** Gabriel R. Roma
-- **Hobbies:** Codar, jogar videogame e tentar entender por que o código que funcionava ontem parou de funcionar hoje.
-- **Frase favorita:** "Isso não era pra acontecer..."
-- **Objetivo:** Pelo menos fazer um deploy sem erros.
+## Sobre mim 🧑‍💻
 
-## Meus Projetos 🚀
+* **Nome:** Gabriel R. Roma
+* **Área de interesse:** Desenvolvimento de software, backend, automação e tecnologia
+* **Objetivo:** Evoluir como desenvolvedor, criar projetos úteis e aplicar tecnologia para resolver problemas reais
+* **Perfil:** Curioso, dedicado e sempre buscando aprender algo novo
 
-Aqui estão alguns dos meus projetos favoritos:
+## Projetos em destaque 🚀
 
-1. **Projeto 1:** [Pong Game](https://github.com/gabrielrroma/GamePIF2024-1)  
-   Esse jogo foi criado pra cadeira de Programação Imperativa e Funcional da faculdade.
+### [Pong Game](https://github.com/gabrielrroma/GamePIF2024-1)
 
-2. **Projeto 2:** [Snake Game](https://github.com/LuizaCalife/SnakeC)  
-   Esse jogo foi criado pra cadeira de Programação Imperativa e Funcional da faculdade. x2 kkkk
+Jogo desenvolvido para a disciplina de Programação Imperativa e Funcional da faculdade. O projeto teve como objetivo aplicar conceitos fundamentais de lógica de programação, estruturação de código e desenvolvimento de jogos simples.
 
-3. **Projeto 3:** [Sistema de Rastreamento
-de Despesas Pessoais.](https://github.com/gabrielrroma/Projeto-de-programacao/tree/main)  
-   Um sistema pra ajudar a controlar as finanças de um jeito rápido e prático.
+### [Snake Game](https://github.com/LuizaCalife/SnakeC)
 
-## Estatísticas do GitHub 📊
+Projeto acadêmico desenvolvido também para a disciplina de Programação Imperativa e Funcional, com foco na implementação da lógica clássica do jogo Snake utilizando conceitos básicos de programação.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielrroma&show_icons=true&theme=radical)
+### [Sistema de Rastreamento de Despesas Pessoais](https://github.com/gabrielrroma/Projeto-de-programacao/tree/main)
 
-## Linguagens e Ferramentas 🛠️
+Sistema voltado para o controle de despesas pessoais, com o objetivo de organizar gastos de forma simples, rápida e prática.
 
-Aqui estão algumas das linguagens e ferramentas que eu uso:
+## Tecnologias e ferramentas 🛠️
 
-- **Linguagens:** JavaScript, Python, HTML, CSS, C, Java, etc.
-- **Ferramentas:** Git, VS Code, Terminal, etc.
+### Linguagens
+
+* Java
+* Python
+* C
+* JavaScript
+* HTML
+* CSS
+
+### Backend e desenvolvimento
+
+* Java com foco em backend
+* Spring Boot
+* Maven
+* Programação Orientada a Objetos
+* Estruturação de projetos
+* Desenvolvimento de sistemas acadêmicos e pessoais
+
+### Banco de dados
+
+* SQL
+* Noções de modelagem e manipulação de dados
+
+### Versionamento e ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Terminal / PowerShell
+* Docker
+* WSL
+
+### Outros conhecimentos
+
+* Lógica de programação
+* Estruturas básicas de dados
+* Desenvolvimento de jogos simples
+* Organização de projetos
+* Debugging e resolução de problemas
 
 ## Contato 📫
 
-Se você quiser bater um papo, colaborar em algum projeto ou apenas compartilhar memes de programação, sinta-se à vontade para me contatar:
+Estou aberto a conexões, colaborações e oportunidades de aprendizado.
 
-- **Email:** [gabrielrroma@gmail.com](mailto:gabrielrroma@gmail.com)
-- **LinkedIn:** [Gabriel R. Roma](https://www.linkedin.com/in/gabriel-roma-884394208/)
-- **Instagram:** [@gabrielrroma](https://www.instagram.com/gabrielrroma/)
+* **Email:** [gabrielrroma@gmail.com](mailto:gabrielrroma@gmail.com)
+* **LinkedIn:** [Gabriel R. Roma](https://www.linkedin.com/in/gabriel-roma-884394208/)
+* **Instagram:** [@gabrielrroma](https://www.instagram.com/gabrielrroma/)
 
-## Agradecimentos 🙏
+---
 
-Obrigado por visitar meu perfil! Se você gostou do que viu, não se esqueça de deixar uma ⭐ nos repositórios que achar interessantes. E lembre-se: "Código é como poesia, nem sempre faz sentido, mas é bonito de se ver."
+Obrigado por visitar meu perfil!
